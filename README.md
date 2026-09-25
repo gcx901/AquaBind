@@ -1,3 +1,9 @@
+# AquaBind
+
+![AquaBind framework](assets/Framework.jpg)
+
+The framework consists of three components: **(a) Dual-Anchor Semantic Association (DASA)**, **(b) Shared-Direction-Suppressed Prototype Calibration (SPC)**, and **(c) Foreground-Background Distribution Discrimination (FBDD)**, together with a cross-image reference branch built on supporting images.
+
 ## Project Structure
 
 ```
